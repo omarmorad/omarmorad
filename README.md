@@ -46,7 +46,7 @@ Hello there! I'm Omar, a Software Engineer passionate about building secure, sca
 ## 📫 Get in Touch
 
 * GitHub: [omarmorad](https://github.com/omarmorad)
-* LinkedIn: [Omar Abdullah](https://www.linkedin.com/in/omar-abdullah-27a96b285)
+* LinkedIn: [Omar Abdullah](https://www.linkedin.com/in/omarabdullahos/)
 * Email: [omorad5362@gmail.com](mailto:omorad5362@gmail.com)
 * My Resume: [Link to CV](https://drive.google.com/file/d/1mFJ0hiI1quzEMR4ANFd0ezAobeWLuUCQ/view?usp=drive_link)
 
