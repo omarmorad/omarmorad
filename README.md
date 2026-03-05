@@ -8,11 +8,11 @@ Hello there! I'm Omar, a Software Engineer passionate about building secure, sca
 
 ## 🛠️ Tech Stack
 
-* **Programming Languages:** JavaScript/TypeScript, Java, PHP, SQL
+* **Programming Languages:** C#, JavaScript, SQL
 * **Frontend:** Angular,HTML/CSS, Tailwind, Bootstrap
-* **Backend:** Node.js, Express.js, Nest.js,Laravel
-* **Databases:** MySQL, MongoDB
-* **Cloud & DevOps:** AWS, Docker, Bash, Red Hat Linux, Apache, Git
+* **Backend:** Node.js, ASP.Net
+* **Databases:** MySQL, MongoDB, SQL SERVER
+* **Cloud & DevOps:** AWS, Docker, Bash, Red Hat Linux,Git
 * **APIs:** RESTful APIs, GraphQL
 * **Other:** Design Patterns, OOP, Data Structures & Algorithms
 
