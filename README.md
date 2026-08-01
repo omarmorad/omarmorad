@@ -1,6 +1,6 @@
 # 👨‍💻 Omar Abdullah — Software Engineer
 
-Hello there! I'm Omar, a Software Engineer passionate about building secure, scalable, and resilient applications. I specialize in backend development, with a primary focus on **.NET (C#, ASP.NET Core)**, while maintaining strong practical experience in **Java ** and **PHP (Laravel)**. I enjoy designing clean architectures, building RESTful APIs, and developing high-performance backend systems.
+Hello there! I'm Omar, a Software Engineer passionate about building secure, scalable, and resilient applications. I specialize in backend development, with a primary focus on **.NET (C#, ASP.NET Core)**, while maintaining strong practical experience in **Java** and **PHP (Laravel)**. I enjoy designing clean architectures, building RESTful APIs, and developing high-performance backend systems.
 
 ---
 
